@@ -1,0 +1,100 @@
+.products-section{
+    padding: 57px 0 50px;
+    background-color: #EEEEEE;
+}
+.product-title-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 57px;
+}
+.product-title{
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #011F3A;
+}
+.product-btn{
+    padding: 13px 25px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 1.96px;
+    text-align: center;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 25px;
+    color: #FFFFFF;
+    background-color: #3D5675;
+}
+.products-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 46px;
+}
+.product-card{
+    background-color: #FFFFFF;
+    border: 1px solid #EEEEEE;
+}
+.product-card-img{
+    margin-bottom: 24px;
+}
+.product-card-content{
+    padding: 0 25px;
+}
+.product-card-title{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0.36px;
+    color: #011F3A;
+    margin-bottom: 8px;
+}
+.product-info{
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+}
+.product-info-text{
+    width: 209px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color: #777777;
+}
+.product-info-price{
+    width: 80px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: right;
+    color: #A1A1A1;
+}
+.product-shop-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+.product-link{
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color: #A1A1A1;
+}
+.product-shop{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 1.96px;
+    text-transform: uppercase;
+    color: #3D5675;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 44px;
+    padding: 13px 25px;
+}

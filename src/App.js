@@ -1,6 +1,7 @@
 import Header from "./modules/Header/header";
 import Hero from "./modules/Hero/hero";
 import Integration from "./modules/Integration/intergration";
+import Products from "./modules/Products/products";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
     <main>
       <Hero/>
       <Integration/>
+      <Products/>
     </main>
     <footer></footer>
     </>
