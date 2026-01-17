@@ -1,0 +1,24 @@
+.integration-section{
+    padding: 20px 0;
+}
+.integration-list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.integration-item{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+.integration-text{
+    width: 91px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19px;
+    letter-spacing: 0.6px;
+    color: #A1A1A1;
+}
+.last{
+    width: 67px;
+}
