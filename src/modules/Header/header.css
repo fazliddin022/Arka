@@ -1,0 +1,45 @@
+.site-header{
+    padding: 20px 0 ;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-navbar{
+    display: flex;
+    align-items: center;
+    gap: 42px;
+}
+.nav-link{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 1.96px;
+    text-transform: uppercase;
+    color: #011F3A;
+    border: 1px solid transparent;
+}
+.nav-link:hover{
+    border-bottom: 1px solid #011F3A;
+    transition: .4s;
+}
+.header-right-part{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+.btn-account{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 1.96px;
+    text-transform: uppercase;
+    color: #011F3A;
+    background: none;
+    border: none;
+}
+.btn-cart{
+    background: none;
+    border: none;
+}
