@@ -1,0 +1,81 @@
+.merchants-section{
+    padding: 88px 0 57px;
+    background-color: #EEEEEE;
+}
+.merchants-title{
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #011F3A;
+    background-color: #EEEEEE;
+    margin-bottom: 59px;
+}
+.merchant{
+    background-color: #FFFFFF;
+}
+.merchant-rate{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 100px 0;
+}
+.merchant-divider{
+    width: 1px;
+    height: 70px;
+    background-color: #EEEEEE;
+}
+.merchant-feedback{
+    display: flex;
+    align-items: center;
+    margin-bottom: 55px;
+}
+.merchant-feedback-content{
+    padding-left: 106px;
+}
+.merchant-feedback-text{
+    text-align: start;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31.92px;
+    letter-spacing: 0%;
+    color: #011F3A;
+    width: 395px;
+    margin-bottom: 11px;
+}
+.merchant-feedback-footer{
+    display: flex;
+    align-items: center;
+    gap: 19px;
+}
+.merchant-feedback-name{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #011F3A;
+    margin-bottom: 4px;
+}
+.merchant-feedback-role{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color: #A1A1A1;
+}
+.merchant-feedback-btn{
+    padding: 13px 25px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 1.96px;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 44px;
+    color: #3D5675;
+    background-color: #F2F2F2;
+}
+.content{
+    padding-right: 111px;
+}
