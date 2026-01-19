@@ -1,0 +1,58 @@
+.request-section{
+    background-color: #EEEEEE;
+    padding: 60px 0;
+}
+.request{
+    background-color: #FFCA3A;
+    padding: 110px 120px;
+}
+.request-card{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.request-card-content{
+    text-align: center;
+}
+.request-card-img{
+    margin-bottom: 24px;
+}
+.request-card-title{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #011F3A;
+    margin-bottom: 14px;
+}
+.request-card-text{
+    width: 310px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #3D5675;
+    margin-bottom: 10px;
+}
+.request-card-btn{
+    padding: 13px 25px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 1.96px;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 44px;
+    color: #3D5675;
+    background-color: #FFFFFF;
+}
+.request-card-divider{
+    width: 1px;
+    height: 410px;
+    background-color: #A1A1A166;
+}
+.text{
+    width: 356px;
+}
